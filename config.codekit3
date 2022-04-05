@@ -173,6 +173,14 @@
       "oAP" : "\/dev\/content\/hero-2.html",
       "oF" : 0
     },
+    "\/dev\/content\/partners.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/partners.html",
+      "oF" : 0
+    },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
